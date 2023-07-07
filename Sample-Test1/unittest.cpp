@@ -1,4 +1,4 @@
-#include "../Project1/DeviceDriver.h"
+#include "../Project1/DeviceDriver.cpp"
 #include "gmock/gmock.h"
 #include "gtest/gtest.h"
 using namespace testing;
